@@ -1,0 +1,1 @@
+Lib.moveMouse("页面中间", 574, 407)  for (var i = 0; i < commonLib.getRandomNumber(5, 10, 0); i++) {  
