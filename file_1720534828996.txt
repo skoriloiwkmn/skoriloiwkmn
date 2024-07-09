@@ -1,0 +1,1 @@
+// Example usage:// Uncomment the lines below to test locally/*const randomStringLength = 100;
