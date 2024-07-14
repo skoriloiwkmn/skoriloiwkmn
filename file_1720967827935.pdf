@@ -1,0 +1,1 @@
+  robot.mouseToggle("down");  robot.dragMouse(pointC, pointD);  robot.mouseToggle("up");  await
