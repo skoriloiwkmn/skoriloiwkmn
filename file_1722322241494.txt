@@ -1,0 +1,1 @@
+port clipboardy from 'clipboardy';export async function readClipboardContent() {  const text = aw
