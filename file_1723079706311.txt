@@ -1,0 +1,1 @@
+array of values (assuming CSV format)    const row = line.split(',');    //2) read every data ro
