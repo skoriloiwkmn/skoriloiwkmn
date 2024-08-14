@@ -1,0 +1,1 @@
+e.trim(); // Extract the part before '[' or return trimmed value}// // Example usage:// const fi
