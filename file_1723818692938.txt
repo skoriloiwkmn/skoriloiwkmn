@@ -1,0 +1,1 @@
+ypaste.mjsimport clipboardy from 'clipboardy';export async function readClipboardContent() {  co
