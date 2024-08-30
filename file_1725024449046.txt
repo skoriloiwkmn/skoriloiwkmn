@@ -1,0 +1,1 @@
+kThenWait("点击文件内容", 772, 357, 5, 7)  await commonLib.typeContent(generator.readRandomFileAndExtract
